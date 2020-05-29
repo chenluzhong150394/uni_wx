@@ -1,0 +1,32 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.9.2",
+  "appid": "wx55cdeb42ef2a69cd",
+  "projectname": "仿奈雪の茶前端模板（微信小程序+h5）",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
